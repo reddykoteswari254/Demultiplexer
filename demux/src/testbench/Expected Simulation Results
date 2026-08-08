@@ -1,0 +1,4 @@
+DIN = 1, SEL = 00 → Y = 0001
+DIN = 1, SEL = 01 → Y = 0010
+DIN = 1, SEL = 10 → Y = 0100
+DIN = 1, SEL = 11 → Y = 1000
